@@ -1,0 +1,65 @@
+{
+  "business_hours": [
+    "Our support team is available from 9 AM to 6 PM, Monday to Friday. Contact us during these hours for assistance. ⏰",
+    "You can reach customer service between 9 AM and 6 PM, Monday to Friday. 📅",
+    "Business hours are 9 AM to 6 PM on weekdays. Plan your requests accordingly. 🏢",
+    "Support is provided Monday to Friday, from 9 AM to 6 PM. 📞",
+    "Customer service operates from 9 AM to 6 PM, Monday to Friday. 💼"
+  ],
+  "account_help": [
+    "To update your account details, go to Profile → Settings → Edit Information. ⚙️",
+    "For account login issues, use the 'Forgot Password' link on the login page. 🔑",
+    "To deactivate your account, email support@company.com with the subject 'Account Deactivation'. 📧",
+    "Check Account Settings → Security to manage login and privacy options. 🔒",
+    "For account-related help, visit Profile → Help Center or contact our support team. 📂"
+  ],
+  "cancellation": [
+    "To cancel an order, open your account, go to Orders → Select Order → Click 'Cancel Order'. ❌",
+    "You can email support@company.com with your order ID and request cancellation. 📩",
+    "To cancel your subscription, go to Account → Billing → Cancel Plan. 🛑",
+    "For order cancellations, log into your account, select the order, and click 'Cancel'. 🗑️",
+    "Subscription cancellations can also be requested via the Help Center under 'My Plans'. 🔓"
+  ],
+  "service_info": [
+    "You can find all service plans under Services → Plans & Pricing. 💼",
+    "To explore premium features, visit Account → Upgrade or check our Services page. ⭐",
+    "View our service details and offers under Services → Overview. 📃",
+    "Premium support and fast shipping are available with Pro plans. Learn more on our website. 🚀",
+    "Our services include fast delivery, easy returns, and secure payments. Check Services → Details. 📦"
+  ],
+  "order_status": [
+    "To track your order, go to Account → Orders → Select Order → View Status. 🔍",
+    "Enter your order ID in the Track Order section on the website to view updates. 🆔",
+    "Shipping updates are available in your account under Orders → Tracking. 🚚",
+    "To get real-time order updates, click on 'Track Order' in your order email. 📬",
+    "Order status can also be checked by contacting support@company.com with your order number. 📧"
+  ],
+  "technical_support": [
+    "For technical issues, clear browser cache and try again before contacting support. 🧹",
+    "To troubleshoot, restart your device and update the app to the latest version. 🔄",
+    "Check the FAQ under Help Center → Troubleshooting for step-by-step solutions. 📖",
+    "Send screenshots of errors to support@company.com for detailed assistance. 🖼️",
+    "For connectivity issues, verify your network and refresh the page or app. 🌐"
+  ],
+  "password_reset": [
+    "Click 'Forgot Password' on the login page and follow the reset instructions. 🔑",
+    "You can reset your password from Account → Settings → Security → Change Password. 🔐",
+    "To reset your password, check your email for the password reset link. 📧",
+    "If you forgot your password, use the password reset option in the login screen. 🖥️",
+    "For security reasons, we recommend resetting your password regularly via Account Settings. 🛡️"
+  ],
+  "payment_update": [
+    "To update payment details, go to Account → Billing → Update Payment Method. 💳",
+    "You can add a new card under Payment Methods in Account Settings. 🏦",
+    "Change your billing information from Profile → Payment → Edit Details. 📄",
+    "Payment details can be updated anytime under Account → Billing. ⚙️",
+    "For expired cards, add a new payment option via Settings → Payment Methods. 🔄"
+  ],
+  "return_request": [
+    "To return an item, go to Orders → Select Order → Request Return. 🔄",
+    "Email returns@company.com with your order ID to start the return process. 📧",
+    "A return label can be downloaded from Account → Orders → Return Item. 🏷️",
+    "Returns can be initiated from your account dashboard under Orders → Return. 📦",
+    "You can also request a return through the Help Center → Returns & Refunds. 💬"
+  ]
+}

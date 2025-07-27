@@ -1,0 +1,11 @@
+{
+  "business_hours": 0,
+  "account_help": 1,
+  "cancellation": 2,
+  "service_info": 3,
+  "order_status": 4,
+  "technical_support": 5,
+  "password_reset": 6,
+  "payment_update": 7,
+  "return_request": 8
+}

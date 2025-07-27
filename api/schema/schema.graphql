@@ -1,0 +1,46 @@
+schema {
+  query: Query
+  mutation: Mutation
+}
+
+type Error {
+  field: String!
+  message: String!
+}
+
+input AskBotInput {
+  message: String!
+}
+
+type Meta {
+  programmer: String!
+  main: String!
+  description: String!
+  language: String!
+  libraries: [String!]!
+}
+
+type Prediction {
+  class: String!
+  label: Int!
+  probability: Float!
+}
+type BotPrediction {
+  predictions: [Prediction!]!
+  top: Prediction!
+}
+type AskBotResponse {
+  error: Error
+  success: Boolean!
+  response: String!
+  lang: String
+  prediction: BotPrediction
+}
+
+type Query {
+  meta: Meta!
+}
+
+type Mutation {
+  askBot(input: AskBotInput!): AskBotResponse!
+}

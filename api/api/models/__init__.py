@@ -75,7 +75,7 @@ def predict_intent(model, sentence, device):
     with torch.no_grad():
         tensor = inference_preprocess_text(sentence).to(device)
         length = torch.tensor([len(t) for t in tensor])
-        probs = F.softmax(model(tensor, length).squeeze(0))
+        probs = F.softmax(model(tensor, length).squeeze(0), dim=0)
         top = {
             "label": int(probs.argmax().item()),
             "probability": float(probs.max().item()),
